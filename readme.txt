@@ -1,3 +1,4 @@
+Easy UI dbo version mysql
 notas sistema crud easy ui 
 
 CREATE DATABASE IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
